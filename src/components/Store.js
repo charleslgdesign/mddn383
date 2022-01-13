@@ -2,11 +2,11 @@ import { React, useState } from 'react'
 // import {lemonHoneyGinger} from './img/lemon-honey-ginger.png'
 // import {passionfruitKawakawaRasberry} from './img/passionfruit-kawakawa-rasberry.png'
 // import {blueberryFejioaKiwifruit} from './img/blueberry-fejioa-kiwifruit.png'
-import { ReactComponent as Purple} from './img/purple.svg'
-import { ReactComponent as Red} from './img/red.svg'
-import { ReactComponent as Orange} from './img/orange.svg'
+import { ReactComponent as Purple} from 'https://charleslgdesign.github.io/mddn383/src/components/img/purple.svg'
+import { ReactComponent as Red} from 'https://charleslgdesign.github.io/mddn383/src/components/img/red.svg'
+import { ReactComponent as Orange} from 'https://charleslgdesign.github.io/mddn383/src/components/img/orange.svg'
 // import { ReactComponent as Yellow} from './img/yellow.svg'
-import { ReactComponent as Lime} from './img/lime.svg'
+import { ReactComponent as Lime} from 'https://charleslgdesign.github.io/mddn383/src/components/img/lime.svg'
 
 function Store() {
 

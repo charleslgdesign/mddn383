@@ -2,16 +2,16 @@ import { React, useState } from 'react'
 import smartContractSchematic from './img/smart-contract-schematic.svg'
 import DataSchematic from './img/data-schematic.svg'
 
-import wp2 from './img/foliage-2.png'
-import wp3 from './img/foliage-3.png'
-import CircularEconomy from './img/circular-economy.svg'
-import AmFreshDrinks from './img/foliage-5.png'
-import loyyal from './img/loyyal.png'
+import wp2 from 'https://charleslgdesign.github.io/mddn383/src/components/img/foliage-2.png'
+import wp3 from 'https://charleslgdesign.github.io/mddn383/src/components/img/foliage-3.png'
+import CircularEconomy from 'https://charleslgdesign.github.io/mddn383/src/components/img/circular-economy.svg'
+import AmFreshDrinks from 'https://charleslgdesign.github.io/mddn383/src/components/img/foliage-5.png'
+import loyyal from 'https://charleslgdesign.github.io/mddn383/src/components/img/loyyal.png'
 
-import red from './img/red-block.svg'
-import purple from './img/purple-block.svg'
-import orange from './img/orange-block.svg'
-import lime from './img/lime-block.svg'
+import red from 'https://charleslgdesign.github.io/mddn383/src/components/img/red-block.svg'
+import purple from 'https://charleslgdesign.github.io/mddn383/src/components/img/purple-block.svg'
+import orange from 'https://charleslgdesign.github.io/mddn383/src/components/img/orange-block.svg'
+import lime from 'https://charleslgdesign.github.io/mddn383/src/components/img/lime-block.svg'
 
 
 
